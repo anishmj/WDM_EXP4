@@ -55,7 +55,10 @@ plt.show()
 
 ```
 ### Output:
+
 ![a](image.png)
+
+
 ![a](image-1.png)
 
 
